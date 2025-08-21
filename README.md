@@ -19,7 +19,12 @@ PyFIM is a simple Python-based File Integrity Monitoring (FIM) tool that detects
 
 3. **Test:**
    - Edit any monitored file while PyFIM is running.
+    <img width="1917" height="1023" alt="Screenshot 2025-08-21 194020" src="https://github.com/user-attachments/assets/115ceb8d-b422-4a64-b681-9ae3e6d7f16b" />
+   <img width="1919" height="1019" alt="Screenshot 2025-08-21 194041" src="https://github.com/user-attachments/assets/f818a1eb-41d1-4c39-a51d-1c9dbe02c7e8" />
+
    - The script will alert you in the terminal if a file changes.
+   - <img width="569" height="96" alt="Screenshot 2025-08-21 194438" src="https://github.com/user-attachments/assets/b7cb5143-7b90-436d-ba33-3abb2b370f59" />
+
 
 ## Example Output
 ```
